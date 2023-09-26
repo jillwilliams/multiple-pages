@@ -40,14 +40,14 @@ nav {
 }
 #app {
     padding: 1rem;
-    background: teal;
+    background: fuchsia;
     border-radius: 0;
     font-size: 2.5rem;
     
 }
 #entrees {
     padding: 1rem;
-    background: yellow;
+    background: aqua;
     border-radius: 0;
     font-size: 2.5rem;
 }
