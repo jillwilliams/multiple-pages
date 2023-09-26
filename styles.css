@@ -84,3 +84,32 @@ li:last-child a {
     border-radius: 0 0 2rem 2rem;
 
 }
+td {
+    color:aqua;
+    font-size: 30px;
+}
+#drinks {
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-top: 3%;
+}
+#beverages {
+    color: aqua;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+#beer {
+    margin: 20px;
+}
+#rainier {
+    color:gold;
+}
+#wine {
+    margin: 20px;
+}
+#coke {
+    margin: 20px;
+}
+#closer {
+    color: aqua;
+}
